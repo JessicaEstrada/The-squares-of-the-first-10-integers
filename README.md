@@ -1,0 +1,1 @@
+# The-squares-of-the-first-10-integers
